@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Santander-Task", "Santander-Task\Santander-Task.csproj", "{258BCD7D-BE38-4203-9032-16EA0CBFFCE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santander-Task-Test", "TestProject1\Santander-Task-Test.csproj", "{1615A2C1-539A-427F-ABB8-D73F36D659D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258BCD7D-BE38-4203-9032-16EA0CBFFCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258BCD7D-BE38-4203-9032-16EA0CBFFCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258BCD7D-BE38-4203-9032-16EA0CBFFCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258BCD7D-BE38-4203-9032-16EA0CBFFCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1615A2C1-539A-427F-ABB8-D73F36D659D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1615A2C1-539A-427F-ABB8-D73F36D659D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1615A2C1-539A-427F-ABB8-D73F36D659D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1615A2C1-539A-427F-ABB8-D73F36D659D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AFEBE1A-AB36-47ED-83B3-2404A71D8897}
+	EndGlobalSection
+EndGlobal
